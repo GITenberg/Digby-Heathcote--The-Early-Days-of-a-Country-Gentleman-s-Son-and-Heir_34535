@@ -1,0 +1,42 @@
+_repo: Digby-Heathcote--The-Early-Days-of-a-Country-Gentleman-s-Son-and-Heir_34535
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Weir, Harrison
+    alias: Weir, Harrison William
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '8210'
+    url: http://www.gutenberg.org/2009/agents/8210
+    wikipedia: http://en.wikipedia.org/wiki/Harrison_Weir
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kingston, William Henry Giles
+    aliases:
+    - Kingston, W. H. G.
+    - Kingston, W.H.G.
+    birthdate: 1814
+    deathdate: 1880
+    gutenberg_agent_id: '8659'
+    url: http://www.gutenberg.org/2009/agents/8659
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Giles_Kingston
+description: ''
+gutenberg_issued: '2010-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Boarding schools -- England -- Juvenile fiction'
+title: 'Digby Heathcote: The Early Days of a Country Gentleman''s Son and Heir'
+url: http://www.gutenberg.org/ebooks/34535
